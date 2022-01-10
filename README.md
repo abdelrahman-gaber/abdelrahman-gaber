@@ -2,7 +2,7 @@
 
 I am Abdelrahman, a Computer Vision Engineer currently working at [NVISO](https://nviso.ai/en) in Tokyo, Japan.
 
-I am intersted in machine learning, specially computer vision applications. I also have some experience with robotics and computer graphics.
+I am intersted in machine learning, especially computer vision applications. I also have some experience with robotics and computer graphics.
 
 #### Connect with me:
 
