@@ -1,17 +1,39 @@
 ### Hi there 👋
 
-I am Abdelrahman, a Computer Vision Engineer currently working at [NVISO](https://nviso.ai/en) in Tokyo, Japan.
+I am Abdelrahman, a Machine Learning Engineer with over 5 years of experience in the fields of Machine Learning, Deep Learning and Computer Vision, along with exposure to Robotics. I currently work as a Machine Learning Engineer at [avatarin](https://avatarin.com/), trying to enhance robots' human-like capabilities using Imitation Learning and Computer Vision.
 
-I am intersted in machine learning, especially computer vision applications. I also have some experience with robotics and computer graphics.
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Technologies That I Use 👨🏻‍💻</h2></summary>
+  </ul>
+</div>
 
-#### Connect with me:
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,c,cpp,cmake,tensorflow,pytorch,ros,docker,git,github,md,linux,vscode&perline=14" />
+  </a>
+</p>
 
-[<img align="left" alt="Abdelrahman | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/abdelrahmangaber/)
-[<img align="left" alt="Abdelrahman | Github" width="22px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://github.com/abdelrahman-gaber)
 
-<br />
+<!-- Connect with me -->
+<!--h2 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Connect With Me 🤝</h2></summary>
+  </ul>
+</div>
+
+<!--icons and links-->
+<p align="center">
+<a href="https://www.linkedin.com/in/abdelrahmangaber/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="Linkedin" height="50" width="50" /></a>  
+</p>
 
 
+
+
+<!--
 #### Languages and Tools:
 
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />]()
@@ -26,10 +48,13 @@ I am intersted in machine learning, especially computer vision applications. I a
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]()
 
 <br />
+-->
 
+<!--
 ---
 
-<img align="left" alt="abdelrahman-gaber's Github Stats" src="https://github-readme-stats.vercel.app/api?username=abdelrahman-gaber&show_icons=true&count_private=true&include_all_commits=true&&hide=prs,contribs&hide_border=true" />
+<img align="left" alt="abdelrahman-gaber's Github Stats" src="https://github-readme-stats.vercel.app/api?username=abdelrahman-gaber&show_icons=true&count_private=true&include_all_commits=true&&hide=prs,contribs&hide_border=true" />  
+-->
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdelrahman-gaber&layout=compact&hide=matlab,html)](https://github.com/anuraghazra/github-readme-stats) -->
 
