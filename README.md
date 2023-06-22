@@ -9,13 +9,37 @@ I am Abdelrahman, a Machine Learning Engineer with over 5 years of experience in
   </ul>
 </div>
 
-<!--tech stack icons-->
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,c,cpp,cmake,tensorflow,pytorch,ros,docker,git,github,md,linux,vscode&perline=14" />
-  </a>
+ <a href="https://www.python.org/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=py" alt="Python" height="50" width="50" /></a>&nbsp;
+ <a href="https://numpy.org/" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/numpy/numpy-original.svg" alt="Numpy" height="50" width="50" /></a>&nbsp;
+ <a href="https://numba.pydata.org/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/f/fe/Numba_logo.svg" alt="Numba" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="blank"><img align="center" src="https://skillicons.dev/icons?i=c" alt="C" height="50" width="50" /></a>&nbsp;
+ <a href="https://en.cppreference.com/w/cpp/17" target="blank"><img align="center" src="https://skillicons.dev/icons?i=cpp" alt="C++17" height="50" width="50" /></a>&nbsp;
+ <a href="https://cmake.org/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=cmake" alt="CMake" height="50" width="50" /></a>
 </p>
 
+<p align="center">
+ <a href="https://www.tensorflow.org/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=tensorflow" alt="Tensorflow" height="50" width="50" /></a>&nbsp;
+ <a href="https://pytorch.org/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" height="50" width="50" /></a>&nbsp;
+ <a href="https://opencv.org/" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/opencv/opencv-original.svg" alt="OpenCV" height="50" width="50" /></a>&nbsp;
+ <a href="https://www.ros.org/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=ros" alt="ROS" height="50" width="50" /></a>&nbsp;
+</p>
+
+<p align="center">
+ <a href="https://www.gnu.org/software/bash/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=bash" alt="Bash" height="50" width="50" /></a>&nbsp;
+ <a href="https://www.docker.com/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=docker" alt="Docker" height="50" width="50" /></a>&nbsp;
+ <a href="https://git-scm.com/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=git" alt="Git" height="50" width="50" /></a>&nbsp;
+ <a href="https://www.markdownguide.org/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=md" alt="Markdown" height="50" width="50" /></a>&nbsp;
+ <a href="https://www.linuxfoundation.org/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linux" alt="Linux" height="50" width="50" /></a>&nbsp;
+ <a href="https://code.visualstudio.com/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=vscode" alt="vscode" height="50" width="50" /></a>&nbsp;
+ 
+</p>
+
+<!--
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=py,c,cpp,cmake,tensorflow,pytorch,ros,bash,docker,git,github,md,linux,vscode&perline=14"/>
+</a>
+-->
 
 <!-- Connect with me -->
 <!--h2 without bottom border-->
@@ -27,7 +51,7 @@ I am Abdelrahman, a Machine Learning Engineer with over 5 years of experience in
 
 <!--icons and links-->
 <p align="center">
-<a href="https://www.linkedin.com/in/abdelrahmangaber/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="Linkedin" height="50" width="50" /></a>  
+<a href="https://www.linkedin.com/in/abdelrahmangaber/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="Linkedin" height="50" width="50" /></a>  
 </p>
 
 
